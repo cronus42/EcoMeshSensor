@@ -1,0 +1,6 @@
+/* Config Example */
+char ssid[] = ""; /// put your WiFi name ///
+char pass[] = ""; /// put your WiFi password ///
+char AWS_CLIENT_ID[] = "";
+char AWS_HOST_ADDRESS[] = "";
+char AWS_TOPIC_NAME[] = "";
